@@ -1,2 +1,2 @@
 # NCA
-NonCompartment Analysyf PhP Phaunctions
+NonCompartmental Analysis PhP Functions
